@@ -1,0 +1,36 @@
+soulstree - git graficzny
+
+touch nazwa - tworzy plik o podanej nazwie
+git add plik - dodaje plik do sledzenia
+git commit -m "add file named file" // -m message, "wiadomoœæ"
+git log /logi
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+git checkout - prze³¹czanie siê pomiêdzy commitami
+git checkout -b //tworzy nowy branch i prze³¹cza siê na neigo (bez -b przechodzi)
+git branch - pokazuje branche
+git merge nazwa brancha //po³¹czenie brancha z obecnym(do³¹czenie do mastera
+
+$ git remote add origin https://github.com/Tester11/first-repo.git
+
+$ git remote -v
+$ git branch -u origin/master
+
+
+
+
+
+
+https://github.com/Tester11/first-repo.git
+
+
+
+
+
+
+
+
+
+
+
+
